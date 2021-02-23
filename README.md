@@ -1,7 +1,7 @@
 # Patterns
 
 
-# Pattern 76 
+### Pattern 76 
 	1 
 	2 3 
 	4 5 6 
@@ -10,7 +10,7 @@
   
 
 
-/*
+
 ##  Pattern 32
 		 
 		     A 
@@ -20,4 +20,4 @@
 		 A B C D E 
 		A B C D E F 
  
- */
+ 
