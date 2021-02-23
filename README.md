@@ -10,8 +10,7 @@
   
 
 
-
-##  Pattern 32
+###  Pattern 32
 		 
 		     A 
 		    A B 
