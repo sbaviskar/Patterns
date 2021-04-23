@@ -1,0 +1,38 @@
+/*
+		4444444
+		4333334
+		4322234
+		4321234
+		4322234
+		4333334
+		4444444
+ */
+public class PatternHackerRank {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int n = 4 ;
+		int m = n * 2 - 1 ;
+		int imin = 0,imax = 0,jmin = 0,jmax = 0,min = 0;
+		for (int i = 0; i < m; i++) {
+			for (int j = 0; j < m; j++) {
+				imin = i ;
+				jmin = j;
+				imax = m-1-i;
+				jmax = m-1-j;
+				if(imin<=imax && imin <= jmin && imin<=jmax) {
+					min = imin ;
+				}else if(jmin <=jmax && jmin <=imax && jmin <=imin ) {
+					min = jmin;
+				}else if(jmax<= jmin && jmax <= imin && jmax <= imax) {
+					min = jmax;
+				}else if(imax <= imin && imax <= jmax && imax <= jmax) {
+					min = imax;
+				}
+				System.out.print(n-min);
+				
+			}System.out.println();
+		}
+	}
+
+}
