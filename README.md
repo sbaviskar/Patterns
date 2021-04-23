@@ -41,9 +41,19 @@
 
 ### Pattern 35
   
-A
-BC
-DEF
-GHIJ
-KLMNO
-PQRSTU
+A       
+BC       
+DEF  
+GHIJ      
+KLMNO      
+PQRSTU  
+
+### Pattern HackerRank
+4444444
+4333334
+4322234
+4321234
+4322234
+4333334
+4444444
+
