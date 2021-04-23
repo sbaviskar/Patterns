@@ -41,12 +41,12 @@
 
 ### Pattern 35
   
-A       
-BC       
-DEF  
-GHIJ      
-KLMNO      
-PQRSTU  
+	A       
+	BC       
+	DEF  
+	GHIJ      
+	KLMNO      
+	PQRSTU  
 
 ### Pattern HackerRank
 	4444444 
