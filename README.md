@@ -39,10 +39,11 @@
 		    *****
 
 
-### Pattern 109
+### Pattern 35
   
-11111
-11122
-11333
-14444
-55555
+A
+BC
+DEF
+GHIJ
+KLMNO
+PQRSTU
